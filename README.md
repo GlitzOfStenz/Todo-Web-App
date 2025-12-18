@@ -30,3 +30,7 @@ Open `index.html` in your browser to try the app.
 
 ## GitHub Link
 [https://github.com/GlitzOfStenz/Todo-Web-App](https://github.com/GlitzOfStenz/Todo-Web-App)
+
+
+## Screenshot
+![Todo List Web App Screenshot](screenshot.png)
